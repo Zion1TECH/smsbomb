@@ -1,7 +1,7 @@
 const rl = require('readline-sync');
 const colors = require('colors');
 const title = require('./modules/title.js');
-const TÜRK HACK TEAM = require('./modules/sms.js');
+const TURK HACK TEAM = require('./modules/sms.js');
 
 title('ZioN TECH');
 
