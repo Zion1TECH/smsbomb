@@ -22,4 +22,4 @@ title(`Telefon: ${telefon} - Miktar: ${miktar}`);
 
 console.log('                                    SİKİŞİ BAŞLATTIM BRO ;) '.white);
 
-TeknoEvreniSmsBomb(telefon, miktar);
+TurkHackTeam(telefon, miktar);
