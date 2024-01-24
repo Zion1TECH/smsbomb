@@ -3,7 +3,7 @@ const colors = require('colors');
 const title = require('./modules/title.js');
 const TurkHackTeam = require('./modules/sms.js');
 
-title('Hosgeldiniz');
+title('EMİR KANLIOĞLU');
 
 let telefon = rl.question('Saldırılacak Numara ? : ' .green);
 if (telefon.length != 10) {
