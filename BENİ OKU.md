@@ -1,15 +1,6 @@
-İstediğiniz numaraya sms saldırısı yapabilirsiniz...
-
-Termuxa gireceğiniz kodları aşağıda verdim
-
-pkg install nodejs
-
-apt upgrade
-
-git clone https://github.com/empro16/ZioN-TECH.git
-
-cd ZioN-TECH
-
+TERMUX İÇİN SMS SALDIRI DOSYASI BIRAKIYORUM.
+LÜTFEN EMEĞE SAYGI
+git clone https://github.com/Zion1TECH/smsbomb.git
+cd smsbomb
 npm install
-
 node index.js
